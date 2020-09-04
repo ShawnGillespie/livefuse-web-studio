@@ -539,7 +539,7 @@ button span:hover {
     }
 
     .grid h3 {
-        font-size: 1.5em;
+        font-size: 2em;
         padding-top: 1.2em;
         padding-bottom: 1.7em;
         text-align: center;
@@ -570,7 +570,7 @@ button span:hover {
     .footer p {
         margin-bottom: 1em;
         margin-top: 0.8em;
-        font-size: 0.9em;
+        font-size: 1.2em;
     }
 
     button span:hover {
