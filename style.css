@@ -159,6 +159,12 @@ a {
 .fab {
     padding-left: 20px;
     padding-right: 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.fa:hover,
+.fab:hover {
+ transform: scale(0.95);
 }
 
 .quote-text p {
